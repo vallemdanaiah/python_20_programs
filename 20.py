@@ -9,3 +9,5 @@ print(min(numbers),max(numbers))'''
 numbers = [12,10,9,44,88]
 numbers.sort()
 print(numbers[0],numbers[-1])
+print('your code is completed danaiah')
+print('*'*40)

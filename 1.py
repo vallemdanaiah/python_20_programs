@@ -4,3 +4,4 @@ sum=0
 for i in range(1,n+1):
     sum=sum+i  
 print('sum of the first {} natural numbers is ={}'.format(n,sum))
+print('your program is completed danaiah')
